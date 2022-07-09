@@ -1,6 +1,6 @@
 # Olá, Eu sou IgorOliveiraNunes
-- 👋Estudando JavaScript <br>
--🌒Pronoun: Ele/Dele
+- 👋Estudando Html/Css  <br>
+
 
 <div align="center">
   <a href="https://github.com/IgorOliveiraNunes">
