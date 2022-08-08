@@ -1,5 +1,7 @@
 # Olá, Eu sou IgorOliveiraNunes
-- 👋Estudando Html/Css  <br>
+- 👋Estudando:<br> 
+Linguagem de marcação==Html<br>
+Linguagem de estilização==Css <br>
 
 
 <div align="center">
