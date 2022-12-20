@@ -1,8 +1,10 @@
 # Olá, Eu sou IgorOliveiraNunes
 - 👋Estudando:<br> 
-Linguagem de marcação==Html<br>
-Linguagem de estilização==Css <br>
+Linguagem de Programação == Javascript <br>
 
+- 👋Conhecimento:<br> 
+Linguagem de marcação == Html<br>
+Linguagem de estilização == Css <br>
 
 <div align="center">
   <a href="https://github.com/IgorOliveiraNunes">
